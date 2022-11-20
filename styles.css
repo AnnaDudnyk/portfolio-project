@@ -85,6 +85,10 @@ p {
     text-align: center;
     padding: 0;
   }
+  .work-section {
+    padding-top: 0;
+    text-align: center;
+  }
 }
 
 .about-section {
@@ -108,4 +112,35 @@ p {
 .about-section img {
   height: 500px;
   border-radius: 24px;
+}
+
+.work-section {
+  padding: 120px 60px;
+  line-height: 80px;
+}
+
+.work-section h1 {
+  font-size: 64px;
+}
+
+.work-section-content {
+  margin: 0;
+  font-family: var(--deafult-font-family);
+}
+
+.work-section img {
+  border-radius: 20px;
+}
+.work-section h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  padding-top: 16px;
+}
+
+.work-section p {
+  color: #272142b2;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
 }
