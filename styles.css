@@ -174,7 +174,7 @@ nav li.active a {
 }
 
 .about-section {
-  padding: 120px 60px;
+  padding: 60px 20px;
 }
 .about-section h1 {
   font-size: 64px;
@@ -197,8 +197,8 @@ nav li.active a {
 }
 
 .work-section {
-  padding: 120px 60px;
-  line-height: 80px;
+  padding: 60px 20px;
+  /* line-height: 80px; */
 }
 
 .work-section h1 {
